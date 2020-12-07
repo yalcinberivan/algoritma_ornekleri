@@ -1,7 +1,8 @@
+import math
 r=int(input("Lütfen Yarıçapı giriniz: "))
 
-alan=3*r*r
-cevre=2*3*r
+alan=math.pi*r*r
+cevre=2*math.pi*r
 
 print("Çemberin yarıçapı: ",r)
 print("Çemberin alanı: ",alan)
