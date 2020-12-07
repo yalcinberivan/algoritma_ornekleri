@@ -1,0 +1,1 @@
+Bu repo Fahri vatansever'in algoritma geliştieme kitabındaki örneklerin çözümlerini içerir
