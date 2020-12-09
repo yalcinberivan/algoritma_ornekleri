@@ -12,5 +12,3 @@ pr2=i**2*r2
 print("Devreden akan akım: {:.2f}\n ".format(i))
 print("R1 direncinde harcanan güç: {:.2f}\n ".format(vr1))
 print("R2 direncinde harcanan güç: {:.2f}\n ".format(pr2))
-
-
