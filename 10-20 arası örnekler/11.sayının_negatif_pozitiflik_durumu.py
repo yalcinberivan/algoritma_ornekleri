@@ -1,4 +1,5 @@
 sayi=float(input("Bir sayı giriniz: "))
+
 if sayi > 0:
     print("Girilen sayı pozitiftir.")
 elif sayi < 0:
