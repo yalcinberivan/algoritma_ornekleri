@@ -1,1 +1,2 @@
-## kod yazılacak
+## kod yazılacak 
+#tamam
