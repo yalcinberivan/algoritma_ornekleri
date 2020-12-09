@@ -4,4 +4,3 @@ while s<5:
     s+=1
 else:
     print("Döngü koşulu sağlandı.")
-    
