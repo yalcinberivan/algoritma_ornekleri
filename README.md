@@ -1,1 +1,1 @@
-Bu repo Fahri Vatansever'in algoritma geliştirme kitabındaki örneklerin çözümlerini içerir
+Bu repo algoritma geliştirme örneklerinin çözümlerini içerir
