@@ -1,7 +1,8 @@
-a=int(input("Pozitif tamsayı giriniz: "))
-print("%d tamsayısının tam bölenleri: "%a)
+sayi=int(input("Pozitif tamsayı giriniz: "))
+print("%d tamsayısının tam bölenleri: "%sayi)
 
 for i in range(1,a+1):
-    if (a%i==0):
-        print("%d"%i)
+    if (sayi%i==0):
+        print("%d"%sayi)
+
 
