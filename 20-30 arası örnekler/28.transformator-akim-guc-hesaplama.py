@@ -11,6 +11,3 @@ if vs>vp :
     print("Yükseltici")
 else:
     print("Düşürücü")
-
-
-
