@@ -5,4 +5,4 @@ ilerleme=dakika/2
 saat=30*saat
 dakika=6*dakika
 
-print("Saat + ilerleme =",dakika)
+print(saat + ilerleme , dakika)
