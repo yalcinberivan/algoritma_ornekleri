@@ -1,4 +1,3 @@
-import math
 
 a=int(input("X'in katsayısını giriniz: "))
 b=int(input("Y'nin katsayısını giriniz: " ))
