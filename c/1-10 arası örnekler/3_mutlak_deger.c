@@ -4,9 +4,11 @@
 
 int sayi;
 
-int main(){
+int main()
+{
 
-    printf("Lutfen bir sayi giriniz: ");scanf("%d",&sayi);
+    printf("Lutfen bir sayi giriniz: ");
+    scanf("%d", &sayi);
 
     printf("%d", abs(sayi));
 
