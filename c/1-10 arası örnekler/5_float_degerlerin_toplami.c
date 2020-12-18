@@ -1,16 +1,20 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-int main(){
-int sayi1,sayi2,toplam;
+int main()
+{
 
-printf("Birinci sayiyi giriniz: ");scanf("%d",&sayi1);
+    int sayi1, sayi2, toplam;
 
-printf("Ikinci sayiyi giriniz: ");scanf("%d",&sayi2);
+    printf("Birinci sayiyi giriniz: ");
+    scanf("%d", &sayi1);
 
-toplam=sayi1+sayi2;
+    printf("Ikinci sayiyi giriniz: ");
+    scanf("%d", &sayi2);
 
-printf("Sayilarin toplami=%d\n",toplam);
+    toplam = sayi1 + sayi2;
 
-return 0;
+    printf("Sayilarin toplami=%d\n", toplam);
+
+    return 0;
 }
