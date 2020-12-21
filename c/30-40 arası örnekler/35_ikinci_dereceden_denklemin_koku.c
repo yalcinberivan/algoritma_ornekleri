@@ -33,6 +33,5 @@ main()
         printf("Sanal kokler vardir.");
 
     getch();
-
-    return 0;
+        return 0;
 }
