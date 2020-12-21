@@ -13,7 +13,7 @@ int main()
         y = 3;
     else
         y = 4 - x;
-    printf("Fonksiyonun %d noktasidaki degeri: %d\n", x, y);
+    printf("Fonksiyonun x=%d noktasidaki degeri: %d\n", x, y);
 
     return 0;
 }
