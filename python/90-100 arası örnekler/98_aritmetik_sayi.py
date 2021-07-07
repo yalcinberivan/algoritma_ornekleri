@@ -7,3 +7,4 @@ if (t/s==int(t/s)):
     print("aritmetik sayıdır...")
 else:
     print("aritmetik sayı değildir...")
+    
